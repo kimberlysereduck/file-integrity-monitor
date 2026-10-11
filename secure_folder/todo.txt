@@ -1,0 +1,6 @@
+Test Checklist
+
+[ ] Generate a baseline.
+[ ] Modify an existing file and check for a MODIFIED alert.
+[ ] Add a new file and check for a NEW_FILE alert.
+[ ] Remove a file and check for a DELETED alert.

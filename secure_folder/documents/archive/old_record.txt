@@ -1,0 +1,4 @@
+Archived Sample Record
+
+This second-level nested text file can be used to verify recursive scanning
+across more than one directory level.

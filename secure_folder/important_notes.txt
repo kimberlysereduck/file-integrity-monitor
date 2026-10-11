@@ -1,0 +1,8 @@
+Project Notes
+
+- Keep this sample file unchanged when first generating the baseline.
+- Edit this file during monitoring to test modified-file detection.
+- No real credentials or sensitive information are stored here.
+
+
+ 

@@ -1,0 +1,4 @@
+Sample Policy
+
+This is a nested fixture file. Its purpose is to verify that the monitor
+recursively scans subdirectories as well as the top-level folder.
